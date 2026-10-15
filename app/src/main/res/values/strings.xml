@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Cápsula do Futuro</string>
+
+    <!-- Tela de criação -->
+    <string name="hint_autor">Nome do autor</string>
+    <string name="hint_titulo">Título da cápsula</string>
+    <string name="hint_ano">Ano de abertura</string>
+    <string name="hint_mensagem">Escreva sua mensagem para o futuro</string>
+    <string name="texto_importancia">Importância:</string>
+    <string name="importancia_inicial">Importância: 50%</string>
+    <string name="btn_selar">Selar cápsula</string>
+    <string name="desc_imagem">Imagem de uma cápsula do tempo</string>
+
+    <!-- Mensagens de erro -->
+    <string name="erro_autor">Informe o nome do autor</string>
+    <string name="erro_titulo">Informe o título da cápsula</string>
+    <string name="erro_ano">Informe o ano de abertura</string>
+    <string name="erro_ano_invalido">O ano deve ser posterior a 2026</string>
+    <string name="erro_mensagem">Escreva a mensagem</string>
+    <string name="erro_mensagem_curta">A mensagem precisa ter pelo menos 20 caracteres</string>
+
+    <!-- Tela de visualização -->
+    <string name="texto_criada_por">Cápsula criada por</string>
+    <string name="texto_aberta_em">para ser aberta em</string>
+    <string name="texto_minha_capsula">Minha cápsula para</string>
+    <string name="btn_editar">Editar</string>
+    <string name="btn_compartilhar">Compartilhar</string>
+    <string name="compartilhar_via">Compartilhar cápsula via</string>
+</resources>
